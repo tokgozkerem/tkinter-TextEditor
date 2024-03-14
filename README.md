@@ -15,7 +15,3 @@ A simple text editor application developed using Python's Tkinter library.
 2. Use the "File" menu to open or save text files.
 3. Use the "Clear Text" button to clear the text area.
 4. Use the "Toggle Theme" button to switch between light and dark themes.
-
-## Contact
-
-For any questions or suggestions, please feel free to contact: ktzcoding@gmail.com
